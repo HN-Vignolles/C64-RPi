@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="800"
+   height="250"
+   viewBox="0 0 211.66666 66.145835"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="hookup.svg"
+   inkscape:export-filename="/home/nightcrow/github/rpi-examples/C64/hookup.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.7021113"
+     inkscape:cx="600.33217"
+     inkscape:cy="112.51777"
+     inkscape:window-width="1366"
+     inkscape:window-height="699"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:4.76264px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff;stroke-width:0.162362"
+       x="7.3588476"
+       y="10.974267"
+       id="text4983"><tspan
+         sodipodi:role="line"
+         id="tspan4981"
+         style="fill:#ffffff;stroke-width:0.162362"
+         x="7.3588476"
+         y="10.974267">User port: (PCB edge connector point of view)</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#ffffff;stroke-width:0.162362"
+         x="7.3588476"
+         y="16.927567"
+         id="tspan4985">   ┌────────────────────── 5v                                 R-Pi</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#ffffff;stroke-width:0.162362"
+         x="7.3588476"
+         y="22.880867"
+         id="tspan4987"> 1 2 3 4 5 6 7 8 9 ... 12      C64┌───────────────┐ RPi       1 2 </tspan><tspan
+         sodipodi:role="line"
+         style="fill:#ffffff;stroke-width:0.162362"
+         x="7.3588476"
+         y="28.834167"
+         id="tspan4989">▁▄ ▄▁▄▁▄▁▄▁▄▁▄▁▄▁▄▁▄ ▄▁▄▁      5V │ Bidirectional │ 3v3   3v3 ■ ●</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#ffffff;stroke-width:0.162362"
+         x="7.3588476"
+         y="34.787468"
+         id="tspan4991">▔▀ ▀▔▀▔▀▔▀▔▀▔▀▔▀▔▀▔▀ ▀▔▀▔      RX │  Logic Level  │ TX        ● ●</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#ffffff;stroke-width:0.162362"
+         x="7.3588476"
+         y="40.740768"
+         id="tspan4993"> A B C D E F H J K L M N       TX │   Converter   │ RX        ● ● GND</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#ffffff;stroke-width:0.162362"
+         x="7.3588476"
+         y="46.694069"
+         id="tspan4995"> │ │ │               │ └─ GND  GND└───────────────┘ GND       ● ● TX</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#ffffff;stroke-width:0.162362"
+         x="7.3588476"
+         y="52.647366"
+         id="tspan4997"> │ └─┴────── RX      └─── TX                                  ● ● RX</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#ffffff;stroke-width:0.162362"
+         x="7.3588476"
+         y="58.600666"
+         id="tspan4999"> └── GND</tspan></text>
+  </g>
+</svg>
