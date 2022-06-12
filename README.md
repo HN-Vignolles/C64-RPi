@@ -38,4 +38,4 @@ console=serial0,1200 console=tty1 root=PARTUUID=5a6cd15b-02 rootfstype=ext4 fsck
 # TODO
 - Translate PETSCII ↔ ASCII and control characters
 
-<img src="https://raw.githubusercontent.com/HN-Vignolles/rpi-examples/master/C64/img2.jpg" alt="C64 screen closeup" width="800"/>
+<img src="https://raw.githubusercontent.com/HN-Vignolles/C64-RPi/master/img2.jpg" alt="C64 screen closeup" width="800"/>
